@@ -1,0 +1,44 @@
+﻿<Ragdoll type="Furryhusky" Texture="%ModDir%/Human_male.png" Color="255,255,255,255" SpritesheetOrientation="0" LimbScale="1" JointScale="1" TextureScale="1" ColliderHeightFromFloor="45" ImpactTolerance="50" CanEnterSubmarine="True" CanWalk="True" Draggable="True" MainLimb="Torso">
+  <collider radius="42" width="1" />
+  <collider radius="42" width="0.75" />
+  <limb id="0" name="" type="Torso" height="85" width="85" notes="">
+    <sprite texture="" sourcerect="0, 0, 100, 100" />
+  </limb>
+  <limb id="1" name="" type="Head" height="85" width="85" notes="">
+    <sprite texture="" sourcerect="0, 100, 100, 100" />
+  </limb>
+  <limb id="2" name="" type="LeftArm" height="85" width="85" notes="">
+    <sprite texture="" sourcerect="0, 200, 100, 100" />
+  </limb>
+  <limb id="3" name="" type="LeftHand" height="85" width="85" notes="">
+    <sprite texture="" sourcerect="0, 300, 100, 100" />
+  </limb>
+  <limb id="4" name="" type="RightArm" height="85" width="85" notes="">
+    <sprite texture="" sourcerect="0, 400, 100, 100" />
+  </limb>
+  <limb id="5" name="" type="RightHand" height="85" width="85" notes="">
+    <sprite texture="" sourcerect="0, 500, 100, 100" />
+  </limb>
+  <limb id="6" name="" type="LeftThigh" height="85" width="85" notes="">
+    <sprite texture="" sourcerect="100, 0, 100, 100" />
+  </limb>
+  <limb id="7" name="" type="LeftLeg" height="85" width="85" notes="">
+    <sprite texture="" sourcerect="100, 100, 100, 100" />
+  </limb>
+  <limb id="8" name="" type="LeftFoot" height="85" width="85" notes="">
+    <sprite texture="" sourcerect="100, 200, 100, 100" />
+  </limb>
+  <limb id="9" name="" type="RightThigh" height="85" width="85" notes="">
+    <sprite texture="" sourcerect="100, 300, 100, 100" />
+  </limb>
+  <limb id="10" name="" type="RightLeg" height="85" width="85" notes="">
+    <sprite texture="" sourcerect="100, 400, 100, 100" />
+  </limb>
+  <limb id="11" name="" type="RightFoot" height="85" width="85" notes="">
+    <sprite texture="" sourcerect="100, 500, 100, 100" />
+  </limb>
+  <limb id="12" name="" type="Waist" height="85" width="85" notes="">
+    <sprite texture="" sourcerect="1, 600, 100, 100" />
+  </limb>
+  <joint name="" limb1="0" limb2="1" limb1anchor="0.00, 0.00" limb2anchor="0.00, 0.00" />
+</Ragdoll>

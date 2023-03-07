@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Character speciesname="Furryhusky" humanoid="true">
+  <ragdolls folder="%ModDir%/Characters/Furryhusky/Ragdolls/" />
+  <animations folder="%ModDir%/Characters/Furryhusky/Animations/" />
+  <health />
+  <ai />
+</Character>
