@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Furry Husky" modversion="A-0.8.2.2.1" corepackage="False" steamworkshopid="2943709529" gameversion="0.21.6.0">
+  <Character file="%ModDir%/Characters/Human/Human.xml" />
+</contentpackage>
